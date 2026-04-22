@@ -5,7 +5,6 @@ metadata:
   namespace: dev
 spec:
   rules:
-  - host: wil-app.local
     http:
       paths:
       - path: /
